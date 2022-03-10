@@ -18,7 +18,7 @@ Hi, here are some rules to carry out this story oav;
 * You **MUST** create a file called `.author.json` with your fullname
 
 ```sh
-~/ts-baratie ❯❯❯ cat -e .author.json
+~/efrei-courses/learn-algorithm/exams/maze ❯❯❯ cat -e .author.json
 [
   {
     "firstName": "Dylan",
