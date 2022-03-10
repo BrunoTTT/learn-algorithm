@@ -1,7 +1,7 @@
-class Queue {
-  /**
-  * Define all the methods here
-  */
+class Queue<T> {
+  private values: T[] = []
+
+  constructor() {}
 }
 
 function main() {
