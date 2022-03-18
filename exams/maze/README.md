@@ -44,6 +44,12 @@ user   0m0,020s
 sys    0m0,012s
 ```
 
+### Run with Docker
+```sh
+~/learn-algorithm/exams/maze/docker > docker compose up --build
+...
+```
+
 ## <a name='story'>Story</a>
 
 ### Prelude
